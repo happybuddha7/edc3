@@ -1,0 +1,6 @@
+place testPlace 100 100
+place AnotherTest 200 600
+
+road AnotherTest route66 666 testPlace
+
+

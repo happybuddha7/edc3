@@ -1,0 +1,4 @@
+place input1 200 600
+place input2 100 100
+road input1 route66 666 input2
+
